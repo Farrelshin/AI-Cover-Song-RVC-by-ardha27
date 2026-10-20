@@ -2,4 +2,4 @@
 
 ### Download YouTube WAV and Splitting Audio
 
-https://colab.research.google.com/github/Farrelshin/AI-Cover-Song-RVC-by-ardha27/blob/main/Download_Youtube_WAV_and_Splitting_Audio.ipynb
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WOQVH5R0zMZYckB6Uy-7FZBSU5-sWmMG?usp=sharing)
